@@ -1,2 +1,4 @@
 # Doctor-sWorkstation
-医生工作站
+This is my first project of My College 
+
+I really like Github!!!
